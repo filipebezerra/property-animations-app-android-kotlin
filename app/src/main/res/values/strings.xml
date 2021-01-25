@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Property animations</string>
+    <string name="rotate">Rotate</string>
+    <string name="translate">Translate</string>
+    <string name="scale">Scale</string>
+    <string name="fade">Fade</string>
+    <string name="shower">Shower</string>
+    <string name="background_color">Background Color</string>
+</resources>
